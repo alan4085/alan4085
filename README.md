@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! Eu sou Alan Gomes 👋
 
-<!--
-**alan4085/alan4085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+💻 Em transição de carreira para a área de Tecnologia da Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de ADS, interessado em tecnologia, desenvolvimento de software e resolução de problemas.
+
+Estou construindo minha experiência prática por meio de estudos, projetos pessoais e participação em iniciativas colaborativas.
+
+Meu objetivo é desenvolver habilidades técnicas e construir uma carreira sólida na área de TI.
+
+## 📚 Atualmente estudando
+
+- Python
+- SQL e Banco de Dados
+- Git e GitHub
+- Lógica de Programação
+- Desenvolvimento de Software
+
+## 🎯 Objetivos
+
+- Desenvolver projetos práticos.
+- Participar de projetos Open Source.
+- Aprimorar minhas habilidades de programação.
+- Colaborar com outros desenvolvedores.
+- Conquistar minha primeira oportunidade profissional em TI.
+
+## 📫 Contato
+
+- GitHub: [Meu perfil](https://github.com/SEU-USUARIO)
